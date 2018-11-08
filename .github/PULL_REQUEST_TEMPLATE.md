@@ -9,3 +9,4 @@ Please check if your PR fulfills the following requirements:
 
 - Commit requirements
 - [ ] Image should be added to root
+- [ ] Naming should be short description of tip
