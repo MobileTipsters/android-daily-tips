@@ -8,73 +8,73 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### [#24 Lazy Loading](/codes/LazyLoading.kt)
-![alt text][/screenshots/LazyLoading.png]
+![alt text]/screenshots/LazyLoading.png
 
 ### #22 6 Mobile Security Tips
-![alt text][/screenshots/6MobileSecurityTips.png]
+![alt text]/screenshots/6MobileSecurityTips.png
 
 ### #21 Zip With Next And Windowed
-![alt text][/screenshots/zipWithNextAndWindowed.png]
+![alt text]/screenshots/zipWithNextAndWindowed.png
 
 ### #20 How To Store Data Locally
-![alt text][/screenshots/HowToStoreDataLocally.png]
+![alt text]/screenshots/HowToStoreDataLocally.png
 
 ### [#19 Defining Map With Kotlin](/codes/DefiningMapWithKotlin.kt)
-![alt text][/screenshots/DefiningMapWithKotlin.png]
+![alt text]/screenshots/DefiningMapWithKotlin.png
 
 ### [#18 How To Get Primary Color Of Theme](/codes/HowToGetPrimaryColorOfTheme.kt)
-![alt text][/screenshots/HowToGetPrimaryColorOfTheme.png]
+![alt text]/screenshots/HowToGetPrimaryColorOfTheme.png
 
 ### [#17 Check Network Connection](/codes/CheckNetworkConnection.kt)
-![alt text][/screenshots/CheckNetworkConnection.png]
+![alt text]/screenshots/CheckNetworkConnection.png
 
 ### [#16 String Templates](/codes/StringTemplates.kt)
-![alt text][/screenshots/StringTemplates.png]
+![alt text]/screenshots/StringTemplates.png
 
 ### [#15 Using Apply Sample](/codes/UsingApplySample.kt)
-![alt text][/screenshots/UsingApplySample.png]
+![alt text]/screenshots/UsingApplySample.png
 
 ### [#14 Elvis Operator](/codes/ElvisOperator.kt)
-![alt text][/screenshots/ElvisOperator.png]
+![alt text]/screenshots/ElvisOperator.png
 
 ### #13 Git Pull
-![alt text][/screenshots/GitPull.png]
+![alt text]/screenshots/GitPull.png
 
 ### #12 Git Fetch
-![alt text][/screenshots/GitFetch.png]
+![alt text]/screenshots/GitFetch.png
 
 ### [#11 Commit Vs Commit Allowing State Loss](/codes/CommitVsCommitAllowingStateLoss.kt)
-![alt text][/screenshots/CommitVsCommitAllowingStateLoss.png]
+![alt text]/screenshots/CommitVsCommitAllowingStateLoss.png
 
 ### [#10 Kotlin Way To Create Singletons](/codes/KotlinWayToCreateSingletons.kt)
-![alt text][/screenshots/KotlinWayToCreateSingletons.png]
+![alt text]/screenshots/KotlinWayToCreateSingletons.png
 
 ### #9 Kotlin Way To Add Or Remove View
-![alt text][/screenshots/AppActions.png]
+![alt text]/screenshots/AppActions.png
 
 ### #8 Mastering Kotlin Standard Functions
-![alt text][/screenshots/MasteringKotlinStandartFunctions.png]
+![alt text]/screenshots/MasteringKotlinStandartFunctions.png
 
 ### #7 Avoid Memory Leaks With Inner Classes
-![alt text][/screenshots/AvoidMemoryLeaksWithInnerClasses.png]
+![alt text]/screenshots/AvoidMemoryLeaksWithInnerClasses.png
 
 ### #6 Key Features To Increase Reach And Engagement
-![alt text][/screenshots/KeyFeaturesToIncreaseReachAndEngagement.png]
+![alt text]/screenshots/KeyFeaturesToIncreaseReachAndEngagement.png
 
 ### #5 Kotlin Readable And Clean Code
-![alt text][/screenshots/KotlinReadableAndCleanCode.png]
+![alt text]/screenshots/KotlinReadableAndCleanCode.png
 
 ### [#4 Kotlin Way To Add Or Remove View](/codes/KotlinWayToAddOrRemoveView.kt)
-![alt text][/screenshots/KotlinWayToAddOrRemoveView.png]
+![alt text]/screenshots/KotlinWayToAddOrRemoveView.png
 
 ### [#3 Efficient String Concatenation](/codes/EfficientStringConcat.kt)
-![alt text][/screenshots/EfficientStringConcat.png]
+![alt text]/screenshots/EfficientStringConcat.png
 
 ### [#2 Safe Constant Null Check](/codes/SafeConstantNullCheck.java)
-![alt text][/screenshots/SafeConstantNullCheck.png]
+![alt text]/screenshots/SafeConstantNullCheck.png
 
 ### [#1 Implicit Null Check](/codes/ImplicitNullCheck.java)
-![alt text][/screenshots/ImplicitNullCheck.png]
+![alt text]/screenshots/ImplicitNullCheck.png
 
 [TwitterIcon]: /art/twitter.png (twitter)
 [InstagramIcon]: /art/instagram.png (instagram)
