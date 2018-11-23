@@ -7,9 +7,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-[TwitterIcon]: /icons/twitter.png (twitter)
-[InstagramIcon]: /icons/instagram.png (instagram)
-[TelegramIcon]: /icons/telegram.png (telegram)
+[TwitterIcon]: /art/twitter.png (twitter)
+[InstagramIcon]: /art/instagram.png (instagram)
+[TelegramIcon]: /art/telegram.png (telegram)
 
 [Twitter]: https://twitter.com/AndroidDailyTip
 [Instagram]: https://www.instagram.com/androiddailytips/
