@@ -7,8 +7,14 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #25 Tools To Improve Rendering
+![alt text](/screenshots/ToolsToImproveRendering.png)
+
 ### [#24 Lazy Loading](/codes/LazyLoading.kt)
 ![alt text](/screenshots/LazyLoading.png)
+
+### #23 Execute Body If In Debug Mode
+![alt text](/screenshots/ExecuteBodyIfDebugMode.png)
 
 ### #22 6 Mobile Security Tips
 ![alt text](/screenshots/6MobileSecurityTips.png)
