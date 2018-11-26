@@ -7,6 +7,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #26 How To Resolve App Launching Time Delay
+![alt text](/screenshots/HowToResolveAppLaunchingTimeDelay.png)
+
 ### #25 Tools To Improve Rendering
 ![alt text](/screenshots/ToolsToImproveRendering.png)
 
