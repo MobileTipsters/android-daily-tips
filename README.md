@@ -7,6 +7,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#27 Kotlin Style Support Version Check](/codes/KotlinStyleSupportVersionCheck.kt)
+![alt text](/screenshots/KotlinStyleSupportVersionCheck.jpg)
+
 ### #26 How To Resolve App Launching Time Delay
 ![alt text](/screenshots/HowToResolveAppLaunchingTimeDelay.png)
 
