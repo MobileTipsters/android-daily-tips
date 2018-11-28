@@ -7,6 +7,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #29 What's New in Android Pie?
+![alt text](/screenshots/WhatsNewInAndroidPie.jpg)
+
+### #28 Range Using
+![alt text](/screenshots/RangeUsing.png)
+
 ### [#27 Kotlin Style Support Version Check](/codes/KotlinStyleSupportVersionCheck.kt)
 ![alt text](/screenshots/KotlinStyleSupportVersionCheck.jpg)
 
