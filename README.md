@@ -1,7 +1,7 @@
 # android-daily-tips
 
 ### Daily Tips From Android World
-
+(https://github.com/MobileTipsters/android-daily-tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/issues) [![GitHub license](https://img.shields.io/github/license/MobileTipsters/android-daily-tips.svg)]
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
