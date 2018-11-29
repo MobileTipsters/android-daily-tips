@@ -1,7 +1,9 @@
 # android-daily-tips
 
 ### Daily Tips From Android World
-[![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/issues)
+[![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/stargazers) 
+[![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/issues)
+[![GitHub license](https://img.shields.io/github/license/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips)
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
