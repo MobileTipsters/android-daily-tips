@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#31 ActivityRecognition](/codes/ActivityRecognition.kt)
+![alt text](/screenshots/ActivityRecognition.png)
+
+### [#30 Memory Optimization](/codes/MemoryOptimization.kt)
+![alt text](/screenshots/MemoryOptimization.png)
+
 ### #29 What's New in Android Pie?
 ![alt text](/screenshots/WhatsNewInAndroidPie.jpg)
 
