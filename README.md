@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #33 Random Extension Function in Kotlin 1.3
+![alt text](/screenshots/RandomExtFuncInKotlin1-3.png)
+
+### #32 When in Kotlin 1.3
+![alt text](/screenshots/WhenInKotlin1-3.png)
+
 ### [#31 ActivityRecognition](/codes/ActivityRecognition.kt)
 ![alt text](/screenshots/ActivityRecognition.png)
 
