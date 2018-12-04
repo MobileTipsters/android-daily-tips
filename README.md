@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#34 Stop All Gradle Processes](/codes/StopGradleProcesses.sh)
+![alt text](/screenshots/StopGradleProcesses.png)
+
 ### #33 Random Extension Function in Kotlin 1.3
 ![alt text](/screenshots/RandomExtFuncInKotlin1-3.png)
 
