@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### [#34 HashCode for Nullable Types in Kotlin 1.3](/codes/HasCodeForNullableTypes.kt)
+### [#35 HashCode for Nullable Types in Kotlin 1.3](/codes/HasCodeForNullableTypes.kt)
 ![alt text](/screenshots/HashCodeForNullableTypes.png)
 
 ### [#34 Stop All Gradle Processes](/codes/StopGradleProcesses.sh)
