@@ -9,6 +9,24 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#35 HashCode for Nullable Types in Kotlin 1.3](/codes/HasCodeForNullableTypes.kt)
+![alt text](/screenshots/HashCodeForNullableTypes.png)
+
+### [#34 Stop All Gradle Processes](/codes/StopGradleProcesses.sh)
+![StopGradleProcesses](/screenshots/StopGradleProcesses.jpg)
+
+### #33 Random Extension Function in Kotlin 1.3
+![alt text](/screenshots/RandomExtFuncInKotlin1-3.png)
+
+### #32 When in Kotlin 1.3
+![alt text](/screenshots/WhenInKotlin1-3.png)
+
+### [#31 ActivityRecognition](/codes/ActivityRecognition.kt)
+![alt text](/screenshots/ActivityRecognition.png)
+
+### [#30 Memory Optimization](/codes/MemoryOptimization.kt)
+![alt text](/screenshots/MemoryOptimization.png)
+
 ### #29 What's New in Android Pie?
 ![alt text](/screenshots/WhatsNewInAndroidPie.jpg)
 
