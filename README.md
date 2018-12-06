@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#36 ArrayMap vs HashMap](/codes/MapComprasion.kt)
+![alt text](/screenshots/MapComprasion.png)
+
 ### [#35 HashCode for Nullable Types in Kotlin 1.3](/codes/HasCodeForNullableTypes.kt)
 ![alt text](/screenshots/HashCodeForNullableTypes.png)
 
