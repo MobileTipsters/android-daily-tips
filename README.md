@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#36 Using Parcelize in Kotlin](/codes/usingParcelizeInKotlin.kt)
+![usingParcelizeInKotlin](/screenshots/usingParcelizeInKotlin.png)
+
 ### [#35 HashCode for Nullable Types in Kotlin 1.3](/codes/HasCodeForNullableTypes.kt)
 ![alt text](/screenshots/HashCodeForNullableTypes.png)
 
