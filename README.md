@@ -9,6 +9,10 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+
+### [#37 ArrayMap vs HashMap](/codes/MapComparison.kt)
+![alt text](/screenshots/MapComprasion.png)
+
 ### [#36 Using Parcelize in Kotlin](/codes/usingParcelizeInKotlin.kt)
 ![usingParcelizeInKotlin](/screenshots/usingParcelizeInKotlin.png)
 
