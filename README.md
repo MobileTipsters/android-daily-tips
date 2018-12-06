@@ -11,7 +11,7 @@
 
 
 ### [#37 ArrayMap vs HashMap](/codes/MapComparison.kt)
-![alt text](/screenshots/MapComprasion.png)
+![alt text](/screenshots/mapComprasion.png)
 
 ### [#36 Using Parcelize in Kotlin](/codes/usingParcelizeInKotlin.kt)
 ![usingParcelizeInKotlin](/screenshots/usingParcelizeInKotlin.png)
