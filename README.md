@@ -9,6 +9,8 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #38 Some Java Issues Addressed in Kotlin
+![alt text](/screenshots/SomeJavaIssuesAddressedInKotlin.png)
 
 ### [#37 ArrayMap vs HashMap](/codes/MapComparison.kt)
 ![alt text](/screenshots/mapComprasion.png)
