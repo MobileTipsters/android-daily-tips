@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #39 Local Functions
+![alt text](/screenshots/LocalFunctions.png)
+
 ### #38 Some Java Issues Addressed in Kotlin
 ![alt text](/screenshots/SomeJavaIssuesAddressedInKotlin.png)
 
