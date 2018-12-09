@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #40 Infix Functions
+![alt text](/screenshots/InfixFunctions.png)
+
 ### #39 Local Functions
 ![alt text](/screenshots/LocalFunctions.png)
 
