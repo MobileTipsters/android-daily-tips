@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #41 Smart Casts
+![alt text](/screenshots/SmartCasts.png)
+
 ### #40 Infix Functions
 ![alt text](/screenshots/InfixFunctions.png)
 
