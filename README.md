@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #42 Tailrec Usage
+![alt text](/screenshots/TailrecUsage.png)
+
 ### #41 Smart Casts
 ![alt text](/screenshots/SmartCasts.png)
 
