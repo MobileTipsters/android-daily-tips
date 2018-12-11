@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #43 Type Alias Usage(/codes/TypeAliases.kt)
+### [#43 Type Alias Usage](/codes/TypeAliases.kt)
 ![alt text](/screenshots/TypeAliases.png)
 
 ### [#42 Tailrec Usage](/codes/TailrecUsage.kt)
