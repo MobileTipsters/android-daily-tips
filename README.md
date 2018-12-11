@@ -9,19 +9,19 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #43 Type Alias Usage
+### #43 Type Alias Usage(/codes/TypeAliases.kt)
 ![alt text](/screenshots/TypeAliases.png)
 
-### #42 Tailrec Usage
+### [#42 Tailrec Usage](/codes/TailrecUsage.kt)
 ![alt text](/screenshots/TailrecUsage.png)
 
-### #41 Smart Casts
+### [#41 Smart Casts](/codes/SmartCast.kt)
 ![alt text](/screenshots/SmartCasts.png)
 
-### #40 Infix Functions
+### [#40 Infix Functions](/codes/InfixFunctions.kt)
 ![alt text](/screenshots/InfixFunctions.png)
 
-### #39 Local Functions
+### [#39 Local Functions](/codes/LocalFunctions.kt)
 ![alt text](/screenshots/LocalFunctions.png)
 
 ### #38 Some Java Issues Addressed in Kotlin
@@ -39,10 +39,10 @@
 ### [#34 Stop All Gradle Processes](/codes/StopGradleProcesses.sh)
 ![StopGradleProcesses](/screenshots/StopGradleProcesses.jpg)
 
-### #33 Random Extension Function in Kotlin 1.3
+### [#33 Random Extension Function in Kotlin 1.3](/codes/RandomExtFuncInKotlin1-3.kt)
 ![alt text](/screenshots/RandomExtFuncInKotlin1-3.png)
 
-### #32 When in Kotlin 1.3
+### [#32 When in Kotlin 1.3](/codes/WhenInKotlin1-3.kt)
 ![alt text](/screenshots/WhenInKotlin1-3.png)
 
 ### [#31 ActivityRecognition](/codes/ActivityRecognition.kt)
@@ -54,7 +54,7 @@
 ### #29 What's New in Android Pie?
 ![alt text](/screenshots/WhatsNewInAndroidPie.jpg)
 
-### #28 Range Using
+### [#28 Range Using](/codes/RangeUsing.kt)
 ![alt text](/screenshots/RangeUsing.png)
 
 ### [#27 Kotlin Style Support Version Check](/codes/KotlinStyleSupportVersionCheck.kt)
@@ -69,7 +69,7 @@
 ### [#24 Lazy Loading](/codes/LazyLoading.kt)
 ![alt text](/screenshots/LazyLoading.png)
 
-### #23 Execute Body If In Debug Mode
+### [#23 Execute Body If In Debug Mode](/codes/ExecuteBodyIfDebugMode.kt)
 ![alt text](/screenshots/ExecuteBodyIfDebugMode.png)
 
 ### #22 6 Mobile Security Tips
