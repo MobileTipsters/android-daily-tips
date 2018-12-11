@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #43 Type Alias Usage
+![alt text](/screenshots/TypeAliases.png)
+
 ### #42 Tailrec Usage
 ![alt text](/screenshots/TailrecUsage.png)
 
