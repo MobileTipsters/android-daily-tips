@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#44 Repeat Function](/codes/RepeatFunction.kt)
+![alt text](/screenshots/RepeatFunction.png)
+
 ### [#43 Type Alias Usage](/codes/TypeAliases.kt)
 ![alt text](/screenshots/TypeAliases.png)
 
