@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #45 MDD - Android Studio Shortcuts  -1
+### #45 MDD - Android Studio Shortcuts  - 1
 ![alt text](/screenshots/MouselessDrivenDevelopment.png)
 
 ### [#44 Repeat Function](/codes/RepeatFunction.kt)
