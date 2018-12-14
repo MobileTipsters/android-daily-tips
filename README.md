@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #46 MDD - VCS Shortcuts
+![alt text](/screenshots/VcsShortcutsForMDD.png)
+
 ### #45 Target Fragment
 ![alt text](/screenshots/SetTargetFragment.png)
 
