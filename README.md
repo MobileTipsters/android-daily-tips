@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #46 Android Performance Tips:
+![alt text](/screenshots/AndroidPerformanceTips.png)
+
 ### #45 Target Fragment
 ![alt text](/screenshots/SetTargetFragment.png)
 
