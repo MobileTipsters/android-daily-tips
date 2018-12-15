@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #45 Target Fragment
+![alt text](/screenshots/SetTargetFragment.png)
+
 ### [#44 Repeat Function](/codes/RepeatFunction.kt)
 ![alt text](/screenshots/RepeatFunction.png)
 
