@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #48 Android Coroutines Continuation
+![alt text](/screenshots/AndroidCoroutinesContinuation.png)
+
 ### #47 MDD - VCS Shortcuts
 ![alt text](/screenshots/VcsShortcutsForMDD.png)
 
