@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #50 Fancy way to set OnClickListeners
+![alt text](/screenshots/FancyWayToSetOnClickListeners.png)
+
 ### #49 Kotlin Package-Level Functions
 ![alt text](/screenshots/PackageLevelFunctions.png)
 
