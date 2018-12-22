@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #53 Gradle Configuration File
+![alt text](/screenshots/GradleConfigurationFile.png)
+
+### #52 Coroutines vs RxKotlin
+![alt text](/screenshots/CoroutinesVsRxKotlin.png)
+
 ### #51 Coroutines
 ![alt text](/screenshots/Coroutines.png)
 
