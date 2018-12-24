@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #54 MVP Architecture
+![alt text](/screenshots/MvpArchitecture.png)
+
 ### #53 Gradle Configuration File
 ![alt text](/screenshots/GradleConfigurationFile.png)
 
