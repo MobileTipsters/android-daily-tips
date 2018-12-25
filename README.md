@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #55 APK Signature Scheme v2
+![alt text](/screenshots/ApkSignatureSchemeV2.png)
+
 ### #54 MVP Architecture
 ![alt text](/screenshots/MvpArchitecture.png)
 
