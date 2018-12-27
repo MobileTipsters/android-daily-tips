@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #58 View Lifecycle
+![alt text](/screenshots/ViewLifeCycle.png)
+
 ### #57 AndroidViewHierarchy
 ![alt text](/screenshots/AndroidViewHierarchy.png)
 
