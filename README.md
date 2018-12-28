@@ -10,8 +10,8 @@
 [![alt text][TelegramIcon]][Telegram]
 
 
-### #59 Kotlin Delegated Properties Observable
-![alt text](/screenshots/ObservableDelagation.png)
+### [#59 Kotlin Delegated Properties Observable](/codes/ObservableDelegation.kt)
+![alt text](/screenshots/ObservableDelegation.png)
 
 ### #58 View Lifecycle
 ![alt text](/screenshots/ViewLifeCycle.png)
