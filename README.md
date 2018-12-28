@@ -1,13 +1,17 @@
 # android-daily-tips
 
 ### Daily Tips From Android World
-[![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/stargazers) 
+[![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips/issues)
 [![GitHub license](https://img.shields.io/github/license/MobileTipsters/android-daily-tips.svg)](https://github.com/MobileTipsters/android-daily-tips)
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
+
+
+### #59 Kotlin Delegated Properties Observable
+![alt text](/screenshots/ObservableDelagation.png)
 
 ### #58 View Lifecycle
 ![alt text](/screenshots/ViewLifeCycle.png)
