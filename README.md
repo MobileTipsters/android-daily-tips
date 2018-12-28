@@ -9,16 +9,85 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #58 View Lifecycle
+![alt text](/screenshots/ViewLifeCycle.png)
+
+### #57 AndroidViewHierarchy
+![alt text](/screenshots/AndroidViewHierarchy.png)
+
+### #56 Kotlin DSL
+![alt text](/screenshots/KotlinDsl.png)
+
+### #55 APK Signature Scheme v2
+![alt text](/screenshots/ApkSignatureSchemeV2.png)
+
+### #54 MVP Architecture
+![alt text](/screenshots/MvpArchitecture.png)
+
+### #53 Gradle Configuration File
+![alt text](/screenshots/GradleConfigurationFile.png)
+
+### #52 Coroutines vs RxKotlin
+![alt text](/screenshots/CoroutinesVsRxKotlin.png)
+
+### #51 Coroutines
+![alt text](/screenshots/Coroutines.png)
+
+### #50 Fancy way to set OnClickListeners
+![alt text](/screenshots/FancyWayToSetOnClickListeners.png)
+
+### #49 Kotlin Package-Level Functions
+![alt text](/screenshots/PackageLevelFunctions.png)
+
+### #48 Android Coroutines Continuation
+![alt text](/screenshots/AndroidCoroutinesContinuation.png)
+
+### #47 MDD - VCS Shortcuts
+![alt text](/screenshots/VcsShortcutsForMDD.png)
+
+### #46 Android Performance Tips:
+![alt text](/screenshots/AndroidPerformanceTips.png)
+
+### #45 Target Fragment
+![alt text](/screenshots/SetTargetFragment.png)
+
+### [#44 Repeat Function](/codes/RepeatFunction.kt)
+![alt text](/screenshots/RepeatFunction.png)
+
+### [#43 Type Alias Usage](/codes/TypeAliases.kt)
+![alt text](/screenshots/TypeAliases.png)
+
+### [#42 Tailrec Usage](/codes/TailrecUsage.kt)
+![alt text](/screenshots/TailrecUsage.png)
+
+### [#41 Smart Casts](/codes/SmartCast.kt)
+![alt text](/screenshots/SmartCasts.png)
+
+### [#40 Infix Functions](/codes/InfixFunctions.kt)
+![alt text](/screenshots/InfixFunctions.png)
+
+### [#39 Local Functions](/codes/LocalFunctions.kt)
+![alt text](/screenshots/LocalFunctions.png)
+
+### #38 Some Java Issues Addressed in Kotlin
+![alt text](/screenshots/SomeJavaIssuesAddressedInKotlin.png)
+
+### [#37 ArrayMap vs HashMap](/codes/MapComparison.kt)
+![alt text](/screenshots/mapComprasion.png)
+
+### [#36 Using Parcelize in Kotlin](/codes/usingParcelizeInKotlin.kt)
+![usingParcelizeInKotlin](/screenshots/usingParcelizeInKotlin.png)
+
 ### [#35 HashCode for Nullable Types in Kotlin 1.3](/codes/HasCodeForNullableTypes.kt)
 ![alt text](/screenshots/HashCodeForNullableTypes.png)
 
 ### [#34 Stop All Gradle Processes](/codes/StopGradleProcesses.sh)
 ![StopGradleProcesses](/screenshots/StopGradleProcesses.jpg)
 
-### #33 Random Extension Function in Kotlin 1.3
+### [#33 Random Extension Function in Kotlin 1.3](/codes/RandomExtFuncInKotlin1-3.kt)
 ![alt text](/screenshots/RandomExtFuncInKotlin1-3.png)
 
-### #32 When in Kotlin 1.3
+### [#32 When in Kotlin 1.3](/codes/WhenInKotlin1-3.kt)
 ![alt text](/screenshots/WhenInKotlin1-3.png)
 
 ### [#31 ActivityRecognition](/codes/ActivityRecognition.kt)
@@ -30,7 +99,7 @@
 ### #29 What's New in Android Pie?
 ![alt text](/screenshots/WhatsNewInAndroidPie.jpg)
 
-### #28 Range Using
+### [#28 Range Using](/codes/RangeUsing.kt)
 ![alt text](/screenshots/RangeUsing.png)
 
 ### [#27 Kotlin Style Support Version Check](/codes/KotlinStyleSupportVersionCheck.kt)
@@ -45,7 +114,7 @@
 ### [#24 Lazy Loading](/codes/LazyLoading.kt)
 ![alt text](/screenshots/LazyLoading.png)
 
-### #23 Execute Body If In Debug Mode
+### [#23 Execute Body If In Debug Mode](/codes/ExecuteBodyIfDebugMode.kt)
 ![alt text](/screenshots/ExecuteBodyIfDebugMode.png)
 
 ### #22 6 Mobile Security Tips
