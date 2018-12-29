@@ -9,6 +9,8 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #60 Flatten Array
+![alt text](/screenshots/FlattenArray.png)
 
 ### [#59 Kotlin Delegated Properties Observable](/codes/ObservableDelegation.kt)
 ![alt text](/screenshots/ObservableDelegation.png)
