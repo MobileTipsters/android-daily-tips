@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #61 MVI Architecture
+![alt text](/screenshots/MviArchitecture.png)
+
 ### #60 Flatten Array
 ![alt text](/screenshots/FlattenArray.png)
 
