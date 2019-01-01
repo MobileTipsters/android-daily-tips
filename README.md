@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #63 Sync version of Async method
+![alt text](/screenshots/AsyncToSync.png)
+
 ### #62 EditText Listener Impl
 ![alt text](/screenshots/EditTextListenerImpl.png)
 
