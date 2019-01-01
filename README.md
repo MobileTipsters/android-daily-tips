@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #62 EditText Listener Impl
+![alt text](/screenshots/EditTextListenerImpl.png)
+
 ### #61 MVI Architecture
 ![alt text](/screenshots/MviArchitecture.png)
 
