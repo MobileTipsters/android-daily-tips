@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### #65 Local Return
-![alt text](/screenshots/LocalReturnr.png)
+![alt text](/screenshots/LocalReturn.png)
 
 ### #64 Looper
 ![alt text](/screenshots/Looper.png)
