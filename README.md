@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #65 Device and Network Requests
+![alt text](/screenshots/1kbDownloadWithDevice.png)
+
 ### #65 Local Return
 ![alt text](/screenshots/LocalReturn.png)
 
