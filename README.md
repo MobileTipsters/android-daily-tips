@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #67 Kotlin Standart Functions Cheatsheet
+![alt text](/screenshots/KotlinStandartFunctions.png)
+
 ### #66 JvmOverloads
 ![alt text](/screenshots/JvmOverloads.png)
 
