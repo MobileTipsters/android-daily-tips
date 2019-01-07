@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #68 Reified Type Parameters
+![alt text](/screenshots/ReifiedTypeParameters.png)
+
 ### #67 Kotlin Standart Functions Cheatsheet
 ![alt text](/screenshots/KotlinStandartFunctions.png)
 
