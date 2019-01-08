@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #68 Package Infot
+![alt text](/screenshots/PackageInfo.png)
+
 ### #67 Kotlin Standart Functions Cheatsheet
 ![alt text](/screenshots/KotlinStandartFunctions.png)
 
