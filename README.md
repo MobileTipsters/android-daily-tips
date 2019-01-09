@@ -9,8 +9,14 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #68 Reified Type Parameters
+### #70 Reified Type Parameters
 ![alt text](/screenshots/ReifiedTypeParameters.png)
+
+### #69 Performance Tips
+![alt text](/screenshots/PerformanceTips.jpg)
+
+### #68 Package Info
+![alt text](/screenshots/PackageInfo.png)
 
 ### #67 Kotlin Standart Functions Cheatsheet
 ![alt text](/screenshots/KotlinStandartFunctions.png)
