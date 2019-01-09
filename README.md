@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #69 Map.associate
+![alt text](/screenshots/MapAssociate.png)
+
 ### #68 Package Info
 ![alt text](/screenshots/PackageInfo.png)
 
