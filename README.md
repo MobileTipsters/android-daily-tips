@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### #69 Performance Tips
-![alt text](/screenshots/PerformanceTips.png)
+![alt text](/screenshots/PerformanceTips.jpg)
 
 ### #68 Package Info
 ![alt text](/screenshots/PackageInfo.png)
