@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #70 Reified Type Parameters
+![alt text](/screenshots/ReifiedTypeParameters.png)
+
 ### #69 Performance Tips
 ![alt text](/screenshots/PerformanceTips.jpg)
 
