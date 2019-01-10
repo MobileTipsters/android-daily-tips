@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #71 Android Feature Module
+![alt text](/screenshots/FeatureModule.png)
+
 ### #70 Reified Type Parameters
 ![alt text](/screenshots/ReifiedTypeParameters.png)
 
