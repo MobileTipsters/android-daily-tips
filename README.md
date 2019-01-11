@@ -9,8 +9,11 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #71 Map.associate
+### #72 Map.associate
 ![alt text](/screenshots/MapAssociate.png)
+
+### #71 Android Feature Module
+![alt text](/screenshots/FeatureModule.png)
 
 ### #70 Reified Type Parameters
 ![alt text](/screenshots/ReifiedTypeParameters.png)
