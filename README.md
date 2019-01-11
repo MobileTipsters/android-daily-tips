@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #73 Map Associate
+![alt text](/screenshots/MapAssociate.png)
+
 ### #72 Android Layout Params
 ![alt text](/screenshots/layoutparams.png)
 
