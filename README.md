@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #72 Map.associate
+![alt text](/screenshots/MapAssociate.png)
+
 ### #71 Android Feature Module
 ![alt text](/screenshots/FeatureModule.png)
 
