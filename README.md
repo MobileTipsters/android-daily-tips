@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #74 Extension Function For Rx Subscriptions
+![alt text](/screenshots/ExtensionFuncForRxSubscriptions.png)
+
 ### #73 Map Associate
 ![alt text](/screenshots/MapAssociate.png)
 
