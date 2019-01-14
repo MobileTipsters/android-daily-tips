@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #75 Common Gradle File
+![alt text](/screenshots/CommonGradleFile.png)
+
 ### #74 Extension Function For Rx Subscriptions
 ![alt text](/screenshots/ExtensionFuncForRxSubscriptions.png)
 
