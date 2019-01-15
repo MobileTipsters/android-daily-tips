@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #76 Single RecyclerView Adapter
+![alt text](/screenshots/SingleRecyclerViewAdapter.png)
+
 ### #75 Common Gradle File
 ![alt text](/screenshots/CommonGradleFile.png)
 
