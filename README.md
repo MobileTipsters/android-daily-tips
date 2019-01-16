@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #77 RxJava Concat Usage
+![alt text](/screenshots/RxJavaConcatUsage.png)
+
 ### #76 Single RecyclerView Adapter
 ![alt text](/screenshots/SingleRecyclerViewAdapter.png)
 
