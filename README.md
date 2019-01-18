@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #79 Property Override
+![alt text](/screenshots/PropertyOverride.png)
+
 ### #78 Coroutine ViewModel
 ![alt text](/screenshots/CoroutineViewModel.png)
 
