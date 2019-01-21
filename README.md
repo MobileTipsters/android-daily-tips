@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #82 Kotlin Delegate for Initializing
+![alt text](/screenshots/KotlinDelegateForInitializing.png)
+
 ### #81 Testing with Mockito
 ![alt text](/screenshots/TestingWithMockito.png)
 
