@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #84 LiveData Generic Error Handling
+![alt text](/screenshots/LiveDataGenericErrorHandling.png)
+
 ### #83 Android Studio 3.3 Features
 ![alt text](/screenshots/AndroidStudioReleaseNewFeatures.jpg)
 
