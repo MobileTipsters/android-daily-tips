@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### #83 Android Studio 3.3 Features
-![alt text](/screenshots/AndroidStudioReleaseNewFeatures.jpeg)
+![alt text](/screenshots/AndroidStudioReleaseNewFeatures.jpg)
 
 ### #82 Kotlin Delegate for Initializing
 ![alt text](/screenshots/KotlinDelegateForInitializing.png)
