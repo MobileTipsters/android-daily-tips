@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #84 Any TryCatch
+![alt text](/screenshots/AnyTryCatch.png)
+
 ### #84 LiveData Generic Error Handling
 ![alt text](/screenshots/LiveDataGenericErrorHandling.png)
 
