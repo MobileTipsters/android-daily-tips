@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #85 Checking Permissions
+![alt text](/screenshots/CheckingPermissions.png)
+
 ### #84 Any TryCatch
 ![alt text](/screenshots/AnyTryCatch.png)
 
