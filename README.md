@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #86 Typealias
+![alt text](/screenshots/Typealias.png)
+
 ### #85 Checking Permissions
 ![alt text](/screenshots/CheckingPermissions.png)
 
