@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #88 Preconditions
+![alt text](/screenshots/Preconditions.png)
+
 ### #87 Typealias
 ![alt text](/screenshots/Typealias.png)
 
