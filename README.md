@@ -9,13 +9,13 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #86 Typealias
+### #87 Typealias
 ![alt text](/screenshots/Typealias.png)
 
-### #85 Checking Permissions
+### #86 Checking Permissions
 ![alt text](/screenshots/CheckingPermissions.png)
 
-### #84 Any TryCatch
+### #85 Any TryCatch
 ![alt text](/screenshots/AnyTryCatch.png)
 
 ### #84 LiveData Generic Error Handling
