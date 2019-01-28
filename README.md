@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #89 Dalvik vs Art
+![alt text](/screenshots/DalvikVsArt.png)
+
 ### #88 Preconditions
 ![alt text](/screenshots/Preconditions.png)
 
