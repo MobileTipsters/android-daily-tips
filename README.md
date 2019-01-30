@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### #90 Reified Type find Fragment
-![alt text](/screenshots/ReifiedTypeFindFragmentt.jpg)
+![alt text](/screenshots/ReifiedTypeFindFragment.jpg)
 
 ### #89 Dalvik vs Art
 ![alt text](/screenshots/DalvikVsArt.png)
