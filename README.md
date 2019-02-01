@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #93 TakeIf
+![alt text](/screenshots/TakeIf.png)
+
 ### #92 Handling Api Result with Sealed Class
 ![alt text](/screenshots/HandlingApiResultWithSealedClass.png)
 
