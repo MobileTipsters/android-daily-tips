@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #92 Handling Api Result with Sealed Class
+![alt text](/screenshots/HandlingApiResultWithSealedClass.png)
+
 ### #91 Android Arch.
 ![alt text](/screenshots/AndroidArchitecture.jpg)
 
