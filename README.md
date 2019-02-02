@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #94 Kotlin Delegation By
+![alt text](/screenshots/KotlinDelegationBy.png)
+
 ### #93 TakeIf
 ![alt text](/screenshots/TakeIf.png)
 
