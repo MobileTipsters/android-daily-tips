@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #95 Parcelable vs Serializable
+![alt text](/screenshots/ParcelableVsSerializable.png)
+
 ### #94 Kotlin Delegation By
 ![alt text](/screenshots/KotlinDelegationBy.png)
 
