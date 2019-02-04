@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #96 SingleLiveData
+![alt text](/screenshots/SingleLiveData.png)
+
 ### #95 Parcelable vs Serializable
 ![alt text](/screenshots/ParcelableVsSerializable.png)
 
