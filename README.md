@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #98 Handling Generic ApiResponse with Coroutines
+![alt text](/screenshots/HandlingGenericApiResponseWithCoroutines.png)
+
 ### #97 Coroutines Async Manager
 ![alt text](/screenshots/CoroutinesAsyncManager.png)
 
