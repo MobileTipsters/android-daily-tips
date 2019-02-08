@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #99 Recyclerview Setup
+![alt text](/screenshots/RecyclerviewSetup.png)
+
 ### #98 Handling Generic ApiResponse with Coroutines
 ![alt text](/screenshots/HandlingGenericApiResponseWithCoroutines.png)
 
