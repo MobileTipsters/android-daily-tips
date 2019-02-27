@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #104 Fragment Argument Delegate
+![alt text](/screenshots/FragmentArgumentDelegate.png)
+
 ### #103 Data Binding SeekBar Color
 ![alt text](/screenshots/DataBindingSeekBarColor.jpg)
 
