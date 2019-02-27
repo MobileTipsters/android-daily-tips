@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #103 Data Binding SeekBar Color
+![alt text](/screenshots/DataBindingSeekBarColor.jpg)
+
 ### #102 Useful ViewPager Extensions
 ![alt text](/screenshots/UsefulViewPagerExtensions.png)
 
