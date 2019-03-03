@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #105 Db Entity Mapper 
+![alt text](/screenshots/DbEntityMapper.png)
+
+### #104 Rx Debounce with Kotlin Coroutines
+![alt text](/screenshots/RxDebounceWithKotlinCoroutines.jpg)
+
 ### #103 Data Binding SeekBar Color
 ![alt text](/screenshots/DataBindingSeekBarColor.jpg)
 
