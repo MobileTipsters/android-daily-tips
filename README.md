@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #106 Fragment Argument Delegate
+![alt text](/screenshots/FragmentArgumentDelegate.png)
+
 ### #105 Db Entity Mapper 
 ![alt text](/screenshots/DbEntityMapper.png)
 
