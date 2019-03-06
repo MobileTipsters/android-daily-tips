@@ -9,8 +9,21 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #103 Android Background Work Decision Graph
+
+### #107 Android Background Work Decision Graph
 ![alt text](/screenshots/backgroundwork.png)
+
+### #106 Fragment Argument Delegate
+![alt text](/screenshots/FragmentArgumentDelegate.png)
+
+### #105 Db Entity Mapper 
+![alt text](/screenshots/DbEntityMapper.png)
+
+### #104 Rx Debounce with Kotlin Coroutines
+![alt text](/screenshots/RxDebounceWithKotlinCoroutines.jpg)
+
+### #103 Data Binding SeekBar Color
+![alt text](/screenshots/DataBindingSeekBarColor.jpg)
 
 ### #102 Useful ViewPager Extensions
 ![alt text](/screenshots/UsefulViewPagerExtensions.png)
