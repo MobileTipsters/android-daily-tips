@@ -9,6 +9,8 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #108 Preventing setValue or postValue from UI
+![alt text](/screenshots/ObservingLiveData.png)
 
 ### #107 Android Background Work Decision Graph
 ![alt text](/screenshots/backgroundwork.png)
