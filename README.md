@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #109 Setting RecyclerView LayoutManager from hXml
+### #109 Setting RecyclerView LayoutManager from Xml
 ![alt text](/screenshots/RecyclerViewLayoutManagerWithXml.jpg)
 
 ### #108 Preventing setValue or postValue from UI
