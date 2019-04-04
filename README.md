@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #110 Locus Id
+![alt text](/screenshots/LocusId.jpg))
+
 ### #109 Setting RecyclerView LayoutManager from Xml
 ![alt text](/screenshots/RecyclerViewLayoutManagerWithXml.jpg)
 
