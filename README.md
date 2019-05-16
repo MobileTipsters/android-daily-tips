@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #112 Kapt Incremental Compilation
+![alt text](/screenshots/KaptIncrementalCompilation.jpg)
+
 ### #111 Creating Hidden Files
 ![alt text](/screenshots/CreatingHiddenFiles.jpg)
 
