@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #114 Logging methods and parameters with Live Template
+### [#114 Logging methods and parameters with Live Template](/codes/LogginWithLiveTemplate.kt)
 ![alt text](/screenshots/LogginWithLiveTemplate.png)
 
 ### #113 Kotlin Run
