@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#116 Fragment Lifecyclescope.laucnhWhenStarted](/codes/LaunchWhenStarted.kt)
+![alt text](/screenshots/LaunchWhenStarted.png)
+
 ### #115 Local First with Coroutines
 ![alt text](/screenshots/LocalFirstWithCoroutines.jpg)
 
