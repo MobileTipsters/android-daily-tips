@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#118 Dowlading file using OkHttp & Okio](/codes/DowloadingFileOkhttpOkio.kt)
+![alt text](/screenshots/DowloadingFileOkhttpOkio.png)
+
 ### #117 Kotlin As Class Clash (by Ragunath Jawahar #30DaysOfKotlin)
 ![alt text](/screenshots/KotlinAsClassClash.jpg)
 
