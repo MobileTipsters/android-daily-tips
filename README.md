@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #119 Key Points of Android Q Features
+![alt text](/screenshots/AndroidQFeatures.png)
+
 ### [#118 Dowlading file using OkHttp & Okio](/codes/DowloadingFileOkhttpOkio.kt)
 ![alt text](/screenshots/DowloadingFileOkhttpOkio.png)
 
