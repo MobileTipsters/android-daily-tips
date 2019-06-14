@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #120 Interitance With Data Classes
+![alt text](/screenshots/InteritanceWithDataClasses.jpg)
+
 ### #119 Key Points of Android Q Features
 ![alt text](/screenshots/AndroidQFeatures.png)
 
