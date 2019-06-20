@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #121 Interitance With Data Classes
+### #121 Observing Network Requests with Stetho
 ![alt text](/screenshots/StethoTip.jpg)
 
 ### #120 Interitance With Data Classes
