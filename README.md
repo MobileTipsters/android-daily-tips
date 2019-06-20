@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #121 Interitance With Data Classes
+![alt text](/screenshots/StethoTip.jpg)
+
 ### #120 Interitance With Data Classes
 ![alt text](/screenshots/InteritanceWithDataClasses.jpg)
 
