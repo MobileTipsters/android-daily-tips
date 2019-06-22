@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #122 When With Mixed Objects
+![alt text](/screenshots/WhenWithMixedObjects.jpg)
+
 ### #121 Observing Network Requests with Stetho
 ![alt text](/screenshots/StethoTip.jpg)
 
