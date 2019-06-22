@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-#i## #123 App Component Factory
+### #123 App Component Factory
 ![alt text](/screenshots/AppComponentFactory.png]
 
 ### #122 When With Mixed Objects
