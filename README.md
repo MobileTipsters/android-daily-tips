@@ -9,8 +9,8 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #123 App Component Factory
-![alt text](/screenshots/AppComponentFactory.png
+#i## #123 App Component Factory
+![alt text](/screenshots/AppComponentFactory.png]
 
 ### #122 When With Mixed Objects
 ![alt text](/screenshots/WhenWithMixedObjects.jpg)
