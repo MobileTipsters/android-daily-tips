@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #124 Kotlin In and Is Usage
+![alt text](/screenshots/KotlinInIs.jpg)
+
 ### #123 App Component Factory
 ![alt text](/screenshots/AppComponentFactory.png)
 
