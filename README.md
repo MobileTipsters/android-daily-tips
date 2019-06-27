@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #125 ViewModel Extension for Coroutines Safe Launch
+![alt text](/screenshots/ViewModelExtSafeLaunch)
+
 ### #124 Kotlin In and Is Usage
 ![alt text](/screenshots/KotlinInIs.jpg)
 
