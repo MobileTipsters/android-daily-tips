@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #126 ArrayList to String with Separator
+![alt text](/screenshots/ArrayListToString.png)
+
 ### #125 ViewModel Extension for Coroutines Safe Launch
 ![alt text](/screenshots/ViewModelExtSafeLaunch.png)
 
