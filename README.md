@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #127 Sample network call with using RxJava, ViewModel and LiveData
+![alt text](/screenshots/NetworkCallWithRxJavaAndViewModel.png)
+
 ### #126 ArrayList to String with Separator
 ![alt text](/screenshots/ArrayListToString.png)
 
