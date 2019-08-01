@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #129 Art vs Dalvik
+![alt text](/screenshots/ArtVsDalvik.jpg)
+
+### #128 Static protection techniques that Dexguard provides
+![alt text](/screenshots/Dexguard.jpg)
+
 ### #127 Sample network call with using RxJava, ViewModel and LiveData
 ![alt text](/screenshots/NetworkCallWithRxJavaAndViewModel.png)
 
