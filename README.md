@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #130 Android Studio Apply Changes
+![alt text](/screenshots/ApplyChanges.jpg)
+
 ### #129 Art vs Dalvik
 ![alt text](/screenshots/ArtVsDalvik.jpg)
 
