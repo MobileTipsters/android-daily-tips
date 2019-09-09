@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #131 Understanding Let Apply Run Also With.jpg
+![alt text](/screenshots/LetApplyRunAlsoWith.jpg)
+
 ### #130 Android Studio Apply Changes
 ![alt text](/screenshots/ApplyChanges.jpg)
 
