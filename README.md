@@ -9,7 +9,10 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #131 Understanding Let Apply Run Also With.jpg
+### #132 Why use Modularization in Android App Dev?
+![alt text](/screenshots/WhyUseModularization.jpg)
+
+### #131 Understanding Let Apply Run Also With
 ![alt text](/screenshots/LetApplyRunAlsoWith.jpg)
 
 ### #130 Android Studio Apply Changes
