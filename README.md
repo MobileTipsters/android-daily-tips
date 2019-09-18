@@ -9,6 +9,27 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #134 Handling onBackPressed on Fragments
+![alt text](/screenshots/BackPressedOnFragments.jpg)
+
+### #133 Mapper in Kotlin
+![alt text](/screenshots/Mapper.png)
+
+### #132 Why use Modularization in Android App Dev?
+![alt text](/screenshots/WhyUseModularization.jpg)
+
+### #131 Understanding Let Apply Run Also With
+![alt text](/screenshots/LetApplyRunAlsoWith.jpg)
+
+### #130 Android Studio Apply Changes
+![alt text](/screenshots/ApplyChanges.jpg)
+
+### #129 Art vs Dalvik
+![alt text](/screenshots/ArtVsDalvik.jpg)
+
+### #128 Static protection techniques that Dexguard provides
+![alt text](/screenshots/Dexguard.jpg)
+
 ### #127 Sample network call with using RxJava, ViewModel and LiveData
 ![alt text](/screenshots/NetworkCallWithRxJavaAndViewModel.png)
 
