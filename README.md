@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #136 Keyboard Show/Hide Ext.
+![alt text](/screenshots/KeyboardShowHideExt.png)
+
+### #135 Correct usage of LifeCycleOwner in Fragments
+![alt text](/screenshots/FragmentLiveDataLifeCycleOwner.png)
+
 ### #134 Handling onBackPressed on Fragments
 ![alt text](/screenshots/BackPressedOnFragments.jpg)
 
