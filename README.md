@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #137 Naming Imports
+![alt text](/screenshots/NamingImportExample.png)
+
 ### #136 Keyboard Show/Hide Ext.
 ![alt text](/screenshots/KeyboardShowHideExt.png)
 
