@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #138 RxJava Firebase Storage Sample Usage
+![alt text](/screenshots/RxJavaFirebaseStorageSample.png)
+
 ### #137 Naming Imports
 ![alt text](/screenshots/NamingImportExample.png)
 
