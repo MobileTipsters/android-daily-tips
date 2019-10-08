@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #139 How LiveData works?
+![alt text](/screenshots/LiveData.png)
+
 ### #138 RxJava Firebase Storage Sample Usage
 ![alt text](/screenshots/RxJavaFirebaseStorageSample.png)
 
