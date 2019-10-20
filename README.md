@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #140 Checking Location Services with AndroidX
+![alt text](/screenshots/CheckingLocationServices.png)
+
 ### #139 How LiveData works?
 ![alt text](/screenshots/LiveData.png)
 
