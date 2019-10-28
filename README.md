@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #141 Read From Json
+![alt text](/screenshots/ReadFromJson.png)
+
 ### #140 Checking Location Services with AndroidX
 ![alt text](/screenshots/CheckingLocationServices.png)
 
