@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #142 List Impl. Discuss
+![alt text](/screenshots/ListImplDiscuss.png)
+
 ### #141 How to  Read From Json
 ![alt text](/screenshots/ReadFromJson.png)
 
