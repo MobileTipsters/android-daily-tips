@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #144 First and Predicate Usage
+![alt text](/screenshots/FirstAndPredicate.jpg)
+
 ### #143 Luhn Check
 ![alt text](/screenshots/LuhnCheck.png)
 
