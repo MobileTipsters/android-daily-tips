@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### #146 Easy Spannable on Kotlin
-![alt text](/easyspannableonkotlin.png)
+![alt text](/screenshots/easyspannableonkotlin.png)
 
 ### #145 ApiCalls and Suspend Functions
 ![alt text](/screenshots/ApiCallsAndSuspendFunctions.png)
