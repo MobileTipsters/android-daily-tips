@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #147 DI Impl Costs Chart
+![alt text](/screenshots/DiImplCosts.jpg)
+
 ### #146 Easy Spannable on Kotlin
 ![alt text](/screenshots/easyspannableonkotlin.png)
 
