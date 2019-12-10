@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #149 EditText Manual Focus Forward
+![alt text](/screenshots/EditTextManualFocusForward.jpg)
+
 ### #148 Function Interfaces
 ![alt text](/screenshots/FunctionInterfaces.jpg)
 
