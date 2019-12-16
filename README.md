@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #150 Launch vs Async
+![alt text](/screenshots/LaunchVsAsync.jpg)
+
 ### #149 EditText Manual Focus Forward
 ![alt text](/screenshots/EditTextManualFocusForward.jpg)
 
