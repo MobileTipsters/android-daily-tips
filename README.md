@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #153 Koin is a DSL, a light container and a pragmatic lightweight di framework
+![alt text](/screenshots/KoinDi.png)
+
 ### #152 Reading-Writing lists from/to RoomDB with Moshi
 ![alt text](/screenshots/RoomTypeConverter.png)
 
