@@ -9,8 +9,14 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #150 Reading-Writing lists from/to RoomDB with Moshi
+### #152 Reading-Writing lists from/to RoomDB with Moshi
 ![alt text](/screenshots/RoomTypeConverter.png)
+
+### #151 Jetpack Compose Sample
+![alt text](/screenshots/JetpackCompose.png)
+
+### #150 Launch vs Async
+![alt text](/screenshots/LaunchVsAsync.jpg)
 
 ### #149 EditText Manual Focus Forward
 ![alt text](/screenshots/EditTextManualFocusForward.jpg)
