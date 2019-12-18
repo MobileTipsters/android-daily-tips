@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #152 Reading-Writing lists from/to RoomDB with Moshi
+![alt text](/screenshots/RoomTypeConverter.png)
+
 ### #151 Jetpack Compose Sample
 ![alt text](/screenshots/JetpackCompose.png)
 
