@@ -6,6 +6,7 @@ inline fun <reified T : ViewModel> Fragment.viewModel(factory: Factory, body: T.
     return vm
 }
 
+
 //Movies Fragment
 moviesViewModel = viewModel(viewModelFactory) {
     observe(movies, ::getList)
