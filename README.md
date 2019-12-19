@@ -9,6 +9,8 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #154 Extension functions for View Model Providers
+![alt text](/screenshots/ViewModelExtension.png)
 
 ### #153 Coroutines Continuation Usage
 ![alt text](/screenshots/CoroutinesContinuationUsage.png)
