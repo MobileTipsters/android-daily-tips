@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #156 Drawable vs Mipmap Folders
+![alt text](/screenshots/DrawableVsMipMapFolders.jpg)
+
 ### #155 Extension functions for View Model Providers
 ![alt text](/screenshots/ViewModelExtension.png)
 
