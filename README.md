@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #156 Automatically encrypts keys and values and adheres to the SharedPreference Interface
+![alt text](/screenshots/EncryptedSharedPreferences.png)
+
 ### #155 Extension functions for View Model Providers
 ![alt text](/screenshots/ViewModelExtension.png)
 
