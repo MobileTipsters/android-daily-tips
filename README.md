@@ -9,6 +9,10 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+
+### #157 Automatically encrypts keys and values and adheres to the SharedPreference Interface
+![alt text](/screenshots/EncryptedSharedPreferences.png)
+
 ### #156 Drawable vs Mipmap Folders
 ![alt text](/screenshots/DrawableVsMipMapFolders.jpg)
 
