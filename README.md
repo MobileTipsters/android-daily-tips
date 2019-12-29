@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 ### #158 App Background - Foreground Listener
-![alt text](/screenshots/EncryptedSharedPreferences.png)
+![alt text](/screenshots/AppFgBgListener.png)
 
 ### #157 Automatically encrypts keys and values and adheres to the SharedPreference Interface
 ![alt text](/screenshots/EncryptedSharedPreferences.png)
