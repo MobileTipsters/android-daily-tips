@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #159 Calling Java from Kotlin - Notation For Platform Types
+![alt text](/screenshots/NotationForPlatformTypes.png)
+
 ### #158 App Background - Foreground Listener
 ![alt text](/screenshots/EncryptedSharedPreferences.png)
 
