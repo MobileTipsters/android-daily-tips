@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #160 Newline At End Of File
+![alt text](/screenshots/NewlineAtEndOfFile.png)
+
 ### #159 Calling Java from Kotlin - Notation For Platform Types
 ![alt text](/screenshots/NotationForPlatformTypes.png)
 
