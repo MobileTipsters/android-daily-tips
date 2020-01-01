@@ -21,7 +21,7 @@
 
 
 // Step 3 (Optional): Also you can handle parameters of deep link with placeholder
-test://fetch/account?displayName={display_name}
+<deepLink app:uri="test://fetch/account?displayName={display_name}" />
 
 // Step 4: To read data from placeholder, you need add an argument below deep link element 
 <argument android:name="display_name" app:argType="string"/>
