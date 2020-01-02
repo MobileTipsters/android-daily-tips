@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#161 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
+![alt text](/screenshots/LiveDataTransformations.png)
+
 ### #160 Newline At End Of File
 ![alt text](/screenshots/NewlineAtEndOfFile.png)
 
