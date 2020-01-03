@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #162 Handling Deep Link with Navigation Component
+![alt text](/screenshots/DeepLinkWithNavigationComponent.png)
+
 ### #161 Flow vs Observable
 ![alt text](/screenshots/FlowVsObservable.jpg)
 
