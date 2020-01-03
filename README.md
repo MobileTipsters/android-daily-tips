@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #161 Uses Cleartext Traffic
+![alt text](/screenshots/UsesCleartextTraffic.png)
+
 ### #160 Newline At End Of File
 ![alt text](/screenshots/NewlineAtEndOfFile.png)
 
