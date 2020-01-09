@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #163 Creating Efficient Splash Screen
+![alt text](/screenshots/EfficientSplashScreen.png)
+
 ### #162 Handling Deep Link with Navigation Component
 ![alt text](/screenshots/DeepLinkWithNavigationComponent.png)
 
