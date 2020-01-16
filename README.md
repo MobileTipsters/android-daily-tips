@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#164 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
+![alt text](/screenshots/LiveDataTransformations.png)
+
 ### #163 Creating Efficient Splash Screen
 ![alt text](/screenshots/EfficientSplashScreen.png)
 
