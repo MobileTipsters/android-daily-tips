@@ -9,8 +9,17 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### [#161 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
+### [#164 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
 ![alt text](/screenshots/LiveDataTransformations.png)
+
+### #163 Creating Efficient Splash Screen
+![alt text](/screenshots/EfficientSplashScreen.png)
+
+### #162 Handling Deep Link with Navigation Component
+![alt text](/screenshots/DeepLinkWithNavigationComponent.png)
+
+### #161 Flow vs Observable
+![alt text](/screenshots/FlowVsObservable.jpg)
 
 ### #160 Newline At End Of File
 ![alt text](/screenshots/NewlineAtEndOfFile.png)
