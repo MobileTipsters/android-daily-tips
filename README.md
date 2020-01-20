@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #165 Dagger Android Injector
+![alt text](/screenshots/DaggerAndroidInjector.png)
+
 ### [#164 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
 ![alt text](/screenshots/LiveDataTransformations.png)
 
