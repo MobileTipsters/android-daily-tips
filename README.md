@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #166 Localizing Firebase Push Notifications
+![alt text](/screenshots/AndroidLocalizedPushNotifications.png)
+
 ### #165 Dagger Android Injector
 ![alt text](/screenshots/DaggerAndroidInjector.png)
 
