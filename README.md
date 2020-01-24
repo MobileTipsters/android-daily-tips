@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #167 Constructor Injection over Field Injection
+![alt text](/screenshots/ConstructorInjection.png)
+
 ### #166 Localizing Firebase Push Notifications
 ![alt text](/screenshots/AndroidLocalizedPushNotifications.png)
 
