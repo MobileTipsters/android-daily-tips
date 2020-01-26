@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #168 Moshi over Gson
+![alt text](/screenshots/MoshiOverGson.png)
+
 ### #167 Constructor Injection over Field Injection
 ![alt text](/screenshots/ConstructorInjection.png)
 
