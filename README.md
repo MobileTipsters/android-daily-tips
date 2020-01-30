@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #169 Kotlin Where usage
+![alt text](/screenshots/KotlinWhereUsage.jpg)
+
 ### #168 Moshi over Gson
 ![alt text](/screenshots/MoshiOverGson.png)
 
