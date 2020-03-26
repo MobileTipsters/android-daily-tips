@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #170 View Visiblity Extensions
+![alt text](/screenshots/ViewVisiblityExt.png)
+
 ### #169 Kotlin Where usage
 ![alt text](/screenshots/KotlinWhereUsage.jpg)
 
