@@ -9,6 +9,24 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #170 View Visiblity Extensions
+![alt text](/screenshots/ViewVisiblityExt.png)
+
+### #169 Kotlin Where usage
+![alt text](/screenshots/KotlinWhereUsage.jpg)
+
+### #168 Moshi over Gson
+![alt text](/screenshots/MoshiOverGson.png)
+
+### #167 Constructor Injection over Field Injection
+![alt text](/screenshots/ConstructorInjection.png)
+
+### #166 Localizing Firebase Push Notifications
+![alt text](/screenshots/AndroidLocalizedPushNotifications.png)
+
+### #165 Dagger Android Injector
+![alt text](/screenshots/DaggerAndroidInjector.png)
+
 ### [#164 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
 ![alt text](/screenshots/LiveDataTransformations.png)
 
