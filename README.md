@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #171 Kotlin Average Usage
+![alt text](/screenshots/Average.png)
+
 ### #170 View Visiblity Extensions
 ![alt text](/screenshots/ViewVisiblityExt.png)
 
