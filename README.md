@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #172 ConstraintLayout Aspect Ratio
+![alt text](/screenshots/ConstraintLayoutAspectRatio.png)
+
 ### #171 Kotlin Average Usage
 ![alt text](/screenshots/Average.png)
 
