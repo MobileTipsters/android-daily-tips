@@ -9,7 +9,7 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #171 Proguard Keep Variants
+### #172 Proguard Keep Variants
 ![alt text](/screenshots/ProguardKeep.png)
 
 ### #171 Kotlin Average Usage
