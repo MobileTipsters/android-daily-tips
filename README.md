@@ -9,6 +9,10 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+
+### #173 Make When Exhaustive
+![alt text](/screenshots/WhenExhaustive.png)
+
 ### #172 Proguard Keep Variants
 ![alt text](/screenshots/ProguardKeep.png)
 
@@ -210,7 +214,7 @@
 ### #106 Fragment Argument Delegate
 ![alt text](/screenshots/FragmentArgumentDelegate.png)
 
-### #105 Db Entity Mapper 
+### #105 Db Entity Mapper
 ![alt text](/screenshots/DbEntityMapper.png)
 
 ### #104 Rx Debounce with Kotlin Coroutines
