@@ -10,7 +10,7 @@
 [![alt text][TelegramIcon]][Telegram]
 
 
-### #174 Make When Exhaustive
+### #174 CoroutineScope Vs SupervisorScope
 ![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
 
 ### #173 Make When Exhaustive
