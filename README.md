@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #173 Delegating Setters and Getters
+![alt text](/screenshots/DelegatingSettersAndGetters.jpg)
+
 ### #172 Proguard Keep Variants
 ![alt text](/screenshots/ProguardKeep.png)
 
