@@ -9,6 +9,12 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #175 CoroutineScope Vs SupervisorScope
+![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
+
+### #174 Make When Exhaustive
+![alt text](/screenshots/WhenExhaustive.png)
+
 ### #173 Delegating Setters and Getters
 ![alt text](/screenshots/DelegatingSettersGetters.jpg)
 
@@ -213,7 +219,7 @@
 ### #106 Fragment Argument Delegate
 ![alt text](/screenshots/FragmentArgumentDelegate.png)
 
-### #105 Db Entity Mapper 
+### #105 Db Entity Mapper
 ![alt text](/screenshots/DbEntityMapper.png)
 
 ### #104 Rx Debounce with Kotlin Coroutines
