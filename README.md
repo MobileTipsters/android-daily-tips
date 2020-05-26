@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #176 ConstraintLayout Aspect Ratio
+![alt text](/screenshots/ConstraintLayoutAspectRatio.png)
+
 ### #175 CoroutineScope Vs SupervisorScope
 ![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
 
