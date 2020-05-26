@@ -9,8 +9,20 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #172 ConstraintLayout Aspect Ratio
+### #176 ConstraintLayout Aspect Ratio
 ![alt text](/screenshots/ConstraintLayoutAspectRatio.png)
+
+### #175 CoroutineScope Vs SupervisorScope
+![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
+
+### #174 Make When Exhaustive
+![alt text](/screenshots/WhenExhaustive.png)
+
+### #173 Delegating Setters and Getters
+![alt text](/screenshots/DelegatingSettersGetters.jpg)
+
+### #172 Proguard Keep Variants
+![alt text](/screenshots/ProguardKeep.png)
 
 ### #171 Kotlin Average Usage
 ![alt text](/screenshots/Average.png)
@@ -210,7 +222,7 @@
 ### #106 Fragment Argument Delegate
 ![alt text](/screenshots/FragmentArgumentDelegate.png)
 
-### #105 Db Entity Mapper 
+### #105 Db Entity Mapper
 ![alt text](/screenshots/DbEntityMapper.png)
 
 ### #104 Rx Debounce with Kotlin Coroutines
