@@ -27,7 +27,7 @@
 ### #172 Proguard Keep Variants
 ![alt text](/screenshots/ProguardKeep.png)
 
-### #171 Kotlin Average Usage
+### [#171 Kotlin Average Usage](/codes/Average.kt)
 ![alt text](/screenshots/Average.png)
 
 ### #170 View Visiblity Extensions
