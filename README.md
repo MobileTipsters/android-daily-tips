@@ -9,6 +9,10 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+
+### #176 String Extension JoinToString
+![alt text](/screenshots/JoinToString.png)
+
 ### #175 CoroutineScope Vs SupervisorScope
 ![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
 
