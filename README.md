@@ -9,12 +9,14 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-
-### #174 CoroutineScope Vs SupervisorScope
+### #175 CoroutineScope Vs SupervisorScope
 ![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
 
-### #173 Make When Exhaustive
+### #174 Make When Exhaustive
 ![alt text](/screenshots/WhenExhaustive.png)
+
+### #173 Delegating Setters and Getters
+![alt text](/screenshots/DelegatingSettersGetters.jpg)
 
 ### #172 Proguard Keep Variants
 ![alt text](/screenshots/ProguardKeep.png)
