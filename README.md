@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#178 Sequence](/codes/Sequence.kt)
+![alt text](/screenshots/Sequence.png)
+
 ### [#177 Transient Annotation](/codes/Transient.kt)
 ![alt text](/screenshots/Transient.png)
 
