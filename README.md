@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #142 Bitmap Extension
+![alt text](/screenshots/BitmapExtension.png)
+
 ### #141 How to  Read From Json
 ![alt text](/screenshots/ReadFromJson.png)
 
