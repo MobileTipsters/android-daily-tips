@@ -35,11 +35,11 @@ android {
         if (variant.getName().startsWith("prodPaid")) {
             variant.buildConfigField 'String', "key", "value"
         } else if (variant.getName().startsWith("betaPaid")) {
-             variant.buildConfigField 'String', "key", "value"
+            variant.buildConfigField 'String', "key", "value"
         } else if (variant.getName().startsWith("alphaPaid")) {
-             variant.buildConfigField 'String', "key", "value"
+            variant.buildConfigField 'String', "key", "value"
         } else if (variant.getName().startsWith("devPaid")) {
-           	 variant.buildConfigField 'String', "key", "value"
+            variant.buildConfigField 'String', "key", "value"
         }
     }
 }
