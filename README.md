@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#179 Providing Build Config Fields on Multi-Dimensional Flavors](/codes/MultiDimensionalFlavorConfigFields.gradle)
+![alt text](/screenshots/MultiDimensionalFlavorConfigFields.png)
+
 ### #178 BuildScript vs Allprojects
 ![alt text](/screenshots/BuildscriptVsAllprojects.png)
 
