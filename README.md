@@ -9,8 +9,119 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
-### #142 Bitmap Extension
+### #179 Bitmap Extension
 ![alt text](/screenshots/BitmapExtension.png)
+
+### #178 BuildScript vs Allprojects
+![alt text](/screenshots/BuildscriptVsAllprojects.png)
+
+### [#177 Transient Annotation](/codes/Transient.kt)
+![alt text](/screenshots/Transient.png)
+
+### #176 ConstraintLayout Aspect Ratio
+![alt text](/screenshots/ConstraintLayoutAspectRatio.png)
+
+### #175 CoroutineScope Vs SupervisorScope
+![alt text](/screenshots/CoroutineScopeVssupervisorScope.png)
+
+### #174 Make When Exhaustive
+![alt text](/screenshots/WhenExhaustive.png)
+
+### #173 Delegating Setters and Getters
+![alt text](/screenshots/DelegatingSettersGetters.jpg)
+
+### #172 Proguard Keep Variants
+![alt text](/screenshots/ProguardKeep.png)
+
+### [#171 Kotlin Average Usage](/codes/Average.kt)
+![alt text](/screenshots/Average.png)
+
+### #170 View Visiblity Extensions
+![alt text](/screenshots/ViewVisiblityExt.png)
+
+### #169 Kotlin Where usage
+![alt text](/screenshots/KotlinWhereUsage.jpg)
+
+### #168 Moshi over Gson
+![alt text](/screenshots/MoshiOverGson.png)
+
+### #167 Constructor Injection over Field Injection
+![alt text](/screenshots/ConstructorInjection.png)
+
+### #166 Localizing Firebase Push Notifications
+![alt text](/screenshots/AndroidLocalizedPushNotifications.png)
+
+### #165 Dagger Android Injector
+![alt text](/screenshots/DaggerAndroidInjector.png)
+
+### [#164 Transformations switchMap and map LiveData-KTX usage](/codes/LiveDataTransformations.kt)
+![alt text](/screenshots/LiveDataTransformations.png)
+
+### #163 Creating Efficient Splash Screen
+![alt text](/screenshots/EfficientSplashScreen.png)
+
+### #162 Handling Deep Link with Navigation Component
+![alt text](/screenshots/DeepLinkWithNavigationComponent.png)
+
+### #161 Flow vs Observable
+![alt text](/screenshots/FlowVsObservable.jpg)
+
+### #160 Newline At End Of File
+![alt text](/screenshots/NewlineAtEndOfFile.png)
+
+### #159 Calling Java from Kotlin - Notation For Platform Types
+![alt text](/screenshots/NotationForPlatformTypes.png)
+
+### #158 App Background - Foreground Listener
+![alt text](/screenshots/AppFgBgListener.png)
+
+### #157 Automatically encrypts keys and values and adheres to the SharedPreference Interface
+![alt text](/screenshots/EncryptedSharedPreferences.png)
+
+### #156 Drawable vs Mipmap Folders
+![alt text](/screenshots/DrawableVsMipMapFolders.jpg)
+
+### #155 Extension functions for View Model Providers
+![alt text](/screenshots/ViewModelExtension.png)
+
+### #154 Relation Between Livedata,MutableLiveData and MediatorLiveData
+![alt text](/screenshots/RelationBetweenLivedataAndSubClasses.png)
+
+### #153 Coroutines Continuation Usage
+![alt text](/screenshots/CoroutinesContinuationUsage.png)
+
+### #152 Reading-Writing lists from/to RoomDB with Moshi
+![alt text](/screenshots/RoomTypeConverter.png)
+
+### #151 Jetpack Compose Sample
+![alt text](/screenshots/JetpackCompose.png)
+
+### #150 Launch vs Async
+![alt text](/screenshots/LaunchVsAsync.jpg)
+
+### #149 EditText Manual Focus Forward
+![alt text](/screenshots/EditTextManualFocusForward.jpg)
+
+### #148 Function Interfaces
+![alt text](/screenshots/FunctionInterfaces.jpg)
+
+### #147 DI Impl Costs Chart
+![alt text](/screenshots/DiImplCosts.jpg)
+
+### #146 Easy Spannable on Kotlin
+![alt text](/screenshots/easyspannableonkotlin.png)
+
+### #145 ApiCalls and Suspend Functions
+![alt text](/screenshots/ApiCallsAndSuspendFunctions.png)
+
+### #144 First and Predicate Usage
+![alt text](/screenshots/FirstAndPredicate.jpg)
+
+### #143 Luhn Check
+![alt text](/screenshots/LuhnCheck.png)
+
+### #142 List Impl. Discuss
+![alt text](/screenshots/ListImplDiscuss.png)
 
 ### #141 How to  Read From Json
 ![alt text](/screenshots/ReadFromJson.png)
@@ -120,7 +231,7 @@
 ### #106 Fragment Argument Delegate
 ![alt text](/screenshots/FragmentArgumentDelegate.png)
 
-### #105 Db Entity Mapper 
+### #105 Db Entity Mapper
 ![alt text](/screenshots/DbEntityMapper.png)
 
 ### #104 Rx Debounce with Kotlin Coroutines
