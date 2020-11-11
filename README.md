@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #179 Bitmap Extension
+![alt text](/screenshots/BitmapExtension.png)
+
 ### #178 BuildScript vs Allprojects
 ![alt text](/screenshots/BuildscriptVsAllprojects.png)
 
