@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#180 Providing Build Config Fields on Multi-Dimensional Flavor Types](/codes/MultiDimensionalFlavorConfigFields.gradle)
+![alt text](/screenshots/MultiDimensionalFlavorConfigFields.png)
+
 ### #179 Bitmap Extension
 ![alt text](/screenshots/BitmapExtension.png)
 

@@ -1,0 +1,45 @@
+/*
+ * Providing build config fields on multi-dimensional flavor types
+ */
+
+android {
+    flavorDimensions Dimensions.default, Dimensions.type
+    productFlavors {
+        prod {
+            dimension Dimensions.default
+        }
+
+        beta {
+            dimension Dimensions.default
+        }
+
+        alpha {
+            dimension Dimensions.default
+        }
+
+        dev {
+            dimension Dimensions.default
+        }
+
+        free {
+            dimension Dimensions.type
+        }
+
+        paid {
+            dimension Dimensions.type
+        }
+    }
+
+    // Use combination of the flavor names
+    libraryVariants.all { variant ->
+        if (variant.getName().startsWith("prodPaid")) {
+            variant.buildConfigField 'String', "key", "value"
+        } else if (variant.getName().startsWith("betaPaid")) {
+            variant.buildConfigField 'String', "key", "value"
+        } else if (variant.getName().startsWith("alphaPaid")) {
+            variant.buildConfigField 'String', "key", "value"
+        } else if (variant.getName().startsWith("devPaid")) {
+            variant.buildConfigField 'String', "key", "value"
+        }
+    }
+}
