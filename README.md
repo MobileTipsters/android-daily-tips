@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#181 Sequence](/codes/Sequence.kt)
+![alt text](/screenshots/Sequence.png)
+
 ### [#180 Providing Build Config Fields on Multi-Dimensional Flavor Types](/codes/MultiDimensionalFlavorConfigFields.gradle)
 ![alt text](/screenshots/MultiDimensionalFlavorConfigFields.png)
 
