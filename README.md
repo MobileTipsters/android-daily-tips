@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### [#182 Flow Api Cheat Sheet by Remy Benza]
+![alt text](/screenshots/flow_api_cheat_sheet.jpg)
+
 ### [#181 Sequence](/codes/Sequence.kt)
 ![alt text](/screenshots/Sequence.png)
 
