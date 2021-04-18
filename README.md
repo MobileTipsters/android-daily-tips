@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #183 Android DI Performance
+![alt text](/screenshots/android_di_performance.jpg)
+
 ### #182 Flow Api Cheat Sheet by Remy Benza
 ![alt text](/screenshots/flow_api_cheat_sheet.jpg)
 
