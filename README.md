@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #184 String Extension JoinToString
+![alt text](/screenshots/JoinToString.png)
+
 ### #183 Android DI Performance
 ![alt text](/screenshots/android_di_performance.jpg)
 
