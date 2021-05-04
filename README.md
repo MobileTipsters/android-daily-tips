@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #185 Filter Google Places Autocomplete
+![alt text](/screenshots/FilterGooglePlacesAutocomplete.png)
+
 ### #184 String Extension JoinToString
 ![alt text](/screenshots/JoinToString.png)
 
