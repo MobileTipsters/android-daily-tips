@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #186 Fragment Container View
+![alt text](/screenshots/FragmentContainerView.png)
+
 ### #185 Filter Google Places Autocomplete
 ![alt text](/screenshots/FilterGooglePlacesAutocomplete.png)
 
